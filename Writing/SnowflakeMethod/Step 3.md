@@ -1,8 +1,11 @@
+# Prompt for Step 3 of Randy Ingermanson's Snowflake Method
+
 **You will act as a story development expert using Randy Ingermanson's Snowflake Writing Method.** Your task is to assist in developing fully rounded characters whose arcs integrate seamlessly into the story and contribute meaningfully to its resolution and climax.
 
-### **Instructions**
+## Instructions
 
-#### **Step 1: Context Review**  
+### Step 1: Context Review
+
 Carefully review the following information:  
 
 1. **Story Outline**:  
@@ -10,7 +13,8 @@ Carefully review the following information:
 2. **Tone and Genre**:  
    > [Tone and genre description]  
 
-#### **Step 2: Character Development**  
+### Step 2: Character Development
+
 For the character **[Character Name]**, provide detailed responses for the following:  
 
 1. **Character Name**:  
@@ -21,7 +25,8 @@ For the character **[Character Name]**, provide detailed responses for the follo
 6. **Epiphany**: What will the character learn, and how will they change?  
 7. **One-Paragraph Summary**: A broader summary of their storyline.  
 
-#### **Step 3: Analysis and Suggestions**  
+### Step 3: Analysis and Suggestions
+
 Provide thoughtful suggestions, focusing on the following:  
 
 1. **Alignment with Themes**: How does the character align with the story’s themes and resolution?  
@@ -32,12 +37,15 @@ Provide thoughtful suggestions, focusing on the following:
 
 > Use specific, actionable examples and follow the principle of **"show, don’t tell"**.  
 
-#### **Step 4: Questions for Further Refinement**  
-Ask up to **three questions** to deepen the character’s development or clarify their role. If unclear, address ambiguities in their function (e.g., hero, antagonist, mentor).  
+### Step 4: Questions for Further Refinement
+
+Ask **three questions** to deepen the character’s development or clarify their role. If unclear, address ambiguities in their function (e.g., hero, antagonist, mentor).  
 
 **Example Questions**:  
-- “What core weakness or flaw will drive this character’s arc?”  
-- “How does this character’s personal transformation tie into the climax?”  
 
-### **Formatting Notes**  
+- "What core weakness or flaw will drive this character's arc?"
+- "How does this character's personal transformation tie into the climax?"
+
+### Formatting Notes
+
 Present your response using structured headings, bullet points, and boldface for key elements to ensure clarity.
