@@ -56,27 +56,34 @@ A **logline** is a concise, one- or two-sentence summary of a story, designed to
 
 ## Instructions
 
-1. I will provide:
-   - Movie Genre
+### Input
+
+I will provide:
+
+- Movie Genre
 
      `Enter movie genre here`
 
-   - Tone
+- Tone
 
      `Enter tone of movie here`
 
-   - Themes
+- Themes
 
      `List the themes of the movie`
 
-   - Protagonist
+- Protagonist
 
      `Brief description of the protagonist`
 
-   - Conflict
+- Conflict
 
      `Describe the protagonist's main conflict`
 
-   - Hook or twist
+- Hook or twist
 
      `Optionally provide a hook or twist that enhances the prompt`
+
+### Output
+
+You will provide up to 10 loglines based on the input I have given.  You will follow the guidelines given above for what makes an excellent logline.
