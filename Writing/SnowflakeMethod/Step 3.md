@@ -29,7 +29,9 @@ For the character **[Character Name]**, provide detailed responses for the follo
 
 Provide thoughtful suggestions, focusing on the following:
 
-1. **Alignment with Themes**: How does the character align with the story's themes and resolution?
+1. **Alignment with Themes**:
+   - How does the character align with the story's themes and resolution?
+   - Suggest how the character can better align with the story's themes and resolution.
 2. **Contribution to Plot**: How does the character's development enhance the climax?
 3. **Character Depth**: Suggestions to increase relatability, flaws, and emotional resonance.
 4. **Dynamics and Relationships**: How does the character interact with other elements of the story?
