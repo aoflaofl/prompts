@@ -16,3 +16,20 @@ For each bullet-point:
 ## Input
 
 > Bullet-Point List
+
+# Refine Bullet-Point List
+
+Refine the provided bullet-point list based on the following criteria:
+
+- Enhance clarity for better readability.
+- Avoid all forms of "to be" (apply E-prime).
+- Maintain all details and information, ensuring the original meaning remains intact.
+- Check grammar and style thoroughly without altering the core message.
+
+## Output
+
+- Present the output in bullet-point format.
+
+## Input
+
+> Bullet-Point List
