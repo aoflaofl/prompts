@@ -11,7 +11,7 @@ Develop and improve the prompts to get AI to create original, well written long 
 ## File Organization
 
 1. One file of brainstorming ideas
-1. There will be one file for each main character
+1. One file for each main character
 1. One file for the brief story outline containing:
    - Genre and Tone
    - One Line Summary
