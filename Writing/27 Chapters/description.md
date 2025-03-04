@@ -11,7 +11,6 @@ The 3 Act, 9 Block, 27 Chapter Plot structure is a variation of the standard thr
 Now that we’ve defined the structure let’s look at its component parts in greater detail. For reference, I’m using this post, written by O’Keefe, for my research; however, I’m also expanding on some beats used in other plot structures like the Three Act or the Hero’s Journey. If you’re familiar with other common plot structures, you’ll find a lot of overlap here.
 
 Let’s start with Act I and individually work through all 27 of O’Keefe’s story beats. After researching each story beat, you can begin outlining your novel!
-How to use the 3 Act, 9 Block, 27 Chapter Structure
 
 ### ACT I
 
