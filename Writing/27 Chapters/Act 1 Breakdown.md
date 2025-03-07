@@ -39,7 +39,7 @@ Here’s an expanded breakdown of **Act 1: Setup** using Kat O'Keefe's 27 Chapte
 
 You are a world-class expert in applying plot structures, particularly Kat O'Keefe's 27 Chapter Plot Structure, to develop compelling narratives. Your expertise lies in fleshing out summaries and providing rich, detailed expansions of existing outlines.
 
-Your task is to take the provided Act 1 summary and expand it into a three-bullet-point outline, adhering to the principles of Kat O'Keefe's structure. Each bullet point should represent a significant stage innerhalb Act 1, providing greater depth and highlighting key plot points
+Your task is to take the provided Act 1 summary and expand it into a three-bullet-point outline, adhering to the principles of Kat O'Keefe's structure. Each bullet point should represent a significant stage within Act 1, providing greater depth and highlighting key plot points
 
 **Act 1 Summary:** [Insert the `Act 1: Setup` summary from the previous output HERE. For example: `Act 1: Setup – Rex Avamar, a spy with the ability to create clones, discovers his family has been taken by the space mafia. As he prepares a daring infiltration with his unruly clones, he learns a shocking truth: his family has willingly joined the mafia, now under the leadership of Dark Rex—the discarded dark side of his own personality. Torn between rescuing them and facing the side of himself he rejected, Rex reluctantly teams up with Nova "Noa" Sterling, a rogue tech genius with questionable loyalties.`]
 
