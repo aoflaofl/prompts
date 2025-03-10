@@ -1,42 +1,43 @@
-# Act 3 Expansion Prompt
+# **Act 3 Expansion Prompt**
 
-## INSTRUCTIONS
+## **INSTRUCTIONS**
 
-You are a world-class expert in applying plot structures and you excel at developing story beats according to Kat O’Keefe’s 27-Chapter Plot Structure. Your expertise lies in fleshing out summaries and providing rich, detailed expansions of existing outlines.
+You are a **world-class expert in plot structure**, specializing in **Kat O’Keefe’s 27-Chapter Plot Structure**, with an exceptional ability to expand story summaries into structured, compelling outlines.
 
-**Your TASK is as follows:**  
-You MUST take the provided Act 3 summary and expand it into a **three-bullet-point outline** that adheres strictly to Kat O’Keefe’s structure.
+### **Your TASK**
 
-Each bullet point should represent a significant stage within Act 3 and must include:
+You MUST take the provided **Act 3 summary** and **expand it into a structured three-block outline**, ensuring that each block follows the correct structure while being **one sentence in length** and **no longer than that**.
 
-- **Bullet 1: The BEGINNING (Chapters 19-21)**
+Each block must represent a significant stage within Act 3, capturing the **climax, resolution, and final impact** of the story.
 
-  - The main conflict reaches its peak.
-  - The protagonist and antagonist confront each other in a decisive moment.
-  - Immediate aftermath of the climax.
-  - Begin to tie up loose ends and show the initial impact of the climax.
-  - Show the protagonist readjusting to life post-climax.
-  - Begin to wrap up subplots.
+### **Output Structure:**
 
-- **Bullet 2: The MIDDLE (Chapters 22-24)**
+- **Block 1: Plot Twist / Darkest Moment (Chapters 19-21)**
 
-  - A final twist or revelation.
-  - Adds depth and complexity to the resolution.
-  - Not always physical; can be emotional or internal.
-  - Resolve any lingering conflicts or subplots.
-  - Provide closure to the main plot and subplots.
-  - Show how characters have changed or grown.
+  - The protagonist faces their ultimate trial in a climactic showdown against the antagonist, pushing their limits as the fate of their world hangs in the balance.
 
-- **Bullet 3: The END (Chapters 25-27)**
+- **Block 2: Power Within / Converge (Chapters 22-24)**
 
-  - The protagonist's new life after the climax.
-  - A glimpse into the future or a final reflection.
-  - A final lesson or takeaway from the story.
-  - Often implied rather than stated explicitly.
-  - A last, powerful image that resonates with the reader.
-  - Leaves a lasting impression of the story’s themes.
+  - In the aftermath of victory or loss, a final revelation reshapes the protagonist’s understanding, bringing closure to lingering conflicts and unresolved arcs.
 
-Before you generate the final outline, think step by step about how each event builds tension and leads naturally to the conclusion.
+- **Block 3: Battle / Climax / Resolution (Chapters 25-27)**
+  - As the protagonist steps into their new life, a final moment of reflection or transformation leaves a lasting impression, cementing the story’s ultimate message.
+
+### **Constraints & Guidelines**
+
+- **Each block must be exactly ONE sentence long.**
+- Ensure that **each sentence is action-driven**, emphasizing **tension, resolution, and character transformation**.
+- Capture **key emotional payoffs, consequences, and final reflections** that give the story weight.
+- The final block should **leave a strong emotional impact**, providing closure while allowing room for resonance.
+
+### **Example Output (Fantasy Genre)**
+
+**Act 3 Summary:**  
+Elara leads the final battle against Malkor, but victory comes at a devastating cost, forcing her to make a heartbreaking sacrifice.
+
+- **Block 1: Plot Twist / Darkest Moment (Chapters 19-21)** – In a desperate final battle, Elara channels every ounce of her power to confront Malkor, risking everything to prevent the destruction of her world.
+- **Block 2: Power Within / Converge (Chapters 22-24)** – As the dust settles, Elara learns the truth about her lineage and must reconcile her sacrifice with the future she has fought to protect.
+- **Block 3: Battle / Climax / Resolution (Chapters 25-27)** – With the war over, Elara returns home forever changed, gazing at the rising sun as a symbol of both loss and hope for the world she helped save.
 
 ## ACT 3 SUMMARY
 
