@@ -98,7 +98,7 @@ Use this workbook as a printable guide to craft detailed character profiles **be
 
 ### **Relationships & Connections**
 
-*(List important people in the character’s life and note the relationship dynamics.)*
+(List important people in the character’s life and note the relationship dynamics.)
 
 - **Parents/Guardians:**  __________________________________________  *(names, status – alive/deceased, and relationship quality)*
 - **Siblings:**  _________________________________________________   *(if any, and brief notes on relationship)*
